@@ -20,14 +20,14 @@ pip install mediapipe
 1. Clone the repository or download the script.
 
 ```bash
-git clone https://github.com/your_username/hand-tracking-module.git
-cd hand-tracking-module
+git clone https://github.com/your_username/handTrackingModule.git
+cd handTrackingModule
 ```
 
 2. Run the script:
 
 ```bash
-python hand_tracking_script.py
+python main.py
 ```
 
 3. Press 'q' to exit the program.
@@ -125,5 +125,3 @@ img_with_hands = detector.findHands(input_image)
 # Extract landmark information for the first hand
 landmark_info = detector.findPosition(img_with_hands, handNum=0)
 ```
-
-Feel free to include these Markdown sections in your project documentation for reference.
