@@ -57,12 +57,8 @@ The `handDetectors` class can be configured by adjusting the initialization para
 ## Contributing
 
 Feel free to contribute to the project by submitting issues or pull requests. Your feedback and enhancements are welcomed!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Certainly! Below are the documentation sections for the `findHands` and `findPosition` methods in the `handDetectors` class.
+##
+Below are the documentation sections for the `findHands` and `findPosition` methods in the `handDetectors` class.
 
 ### `findHands` Method
 
