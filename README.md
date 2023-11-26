@@ -20,7 +20,7 @@ pip install mediapipe
 1. Clone the repository or download the script.
 
 ```bash
-git clone https://github.com/your_username/handTrackingModule.git
+git clone https://github.com/devDurgeshK/handTrackingModule.git
 cd handTrackingModule
 ```
 
